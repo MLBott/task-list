@@ -1,7 +1,8 @@
 # React Native Expo Task List
+Author: Michael Bottom
 
-## The Repository Details
-This repo holds all source files for the project.
+## Summary
+
 
 ## How to Run
 To run, install the source files from the repo.
