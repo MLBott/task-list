@@ -1,8 +1,7 @@
 # React Native Expo Task List
-Author: Michael Bottom
 
 ## Summary
-
+A React Native taks list app. It was built with Expo as a framework, and JavaScript.
 
 ## How to Run
 To run, install the source files from the repo.
